@@ -1,0 +1,110 @@
+{
+    "tasks": [
+        {
+            "name": "Start task",
+            "start": "Summer 2023",
+            "group": 1,
+            "duration": 1
+        },
+        {
+            "name": "Procrastinate",
+            "start": "Fall 2023",
+            "group": 1,
+            "duration": 1
+        },
+        {
+            "name": "Maybe work a little",
+            "start": "Spring 2024",
+            "group": 1,
+            "duration": 2
+        },
+        {
+            "name": "Fix mistakes",
+            "start": "Summer 2024",
+            "group": 1,
+            "duration": 1
+        }
+        ,
+        {
+            "name": "Start all over",
+            "start": "Fall 2024",
+            "group": 2,
+            "duration": 2
+        }
+        ,
+        {
+            "name": "Actually have a flow",
+            "start": "Summer 2025",
+            "group": 2,
+            "duration": 2
+        }
+        ,
+        {
+            "name": "Realize task was misunderstood",
+            "start": "Fall 2025",
+            "group": 2,
+            "duration": 2
+        }
+        ,
+        {
+            "name": "Start all over again",
+            "start": "Spring 2026",
+            "group": 3,
+            "duration": 1
+        }
+    ],
+    "cols": [
+        {
+            "name": "Summer 2023",
+            "id": 1
+        },
+        {
+            "name": "Fall 2023",
+            "id": 2
+        },
+        {
+            "name": "Spring 2024",
+            "id": 3
+        }
+        ,
+        {
+            "name": "Summer 2024",
+            "id": 4
+        },
+        {
+            "name": "Fall 2024",
+            "id": 5
+        },
+        {
+            "name": "Spring 2025",
+            "id": 6
+        }
+        ,
+        {
+            "name": "Summer 2025",
+            "id": 7
+        },
+        {
+            "name": "Fall 2025",
+            "id": 8
+        },
+        {
+            "name": "Spring 2026",
+            "id": 9
+        }
+    ],
+    "groups": [
+        {
+            "name": "Stage 1",
+            "id": 1
+        },
+        {
+            "name": "Stage 2",
+            "id": 2
+        },
+        {
+            "name": "Stage 3",
+            "id": 3
+        }
+    ]
+}
